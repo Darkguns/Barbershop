@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BarbershopApplication {
 
 	public static void main(String[] args) {
-		System.out.println("dev");
+		System.out.println("dev-start-project");
 		SpringApplication.run(BarbershopApplication.class, args);
 	}
 
